@@ -40,14 +40,10 @@ Learning Materials and Pathway of Artificial Intelligence (Machine Learning)
 
 ### Coding Basics
 
-Master the fundamentals of programming languages commonly used in AI and machine learning:
-
 - **Python**: A versatile and widely-used language with extensive libraries for AI development.
 - **C**: A low-level language often used for performance-critical applications.
 - **C++**: A powerful language with strong support for object-oriented programming and performance optimization.
 ## Toolkits
-
-This section includes essential AI libraries and tools that you can use in your projects:
 
 - [**Numpy**](https://numpy.org/): A powerful library for numerical computations and matrix operations.
 
@@ -66,8 +62,7 @@ This section includes essential AI libraries and tools that you can use in your 
 - [**Keras**](https://keras.io/): A user-friendly deep learning framework that serves as an interface for popular deep learning libraries.
 
 - [**Tensorflow**](https://www.tensorflow.org/): An open-source deep learning platform developed by Google, widely used for building neural networks and machine learning models.
-
-Each of these toolkits has its unique strengths and use cases, making them valuable resources for AI and machine learning development.
+  
 
 ### Machine Learning
 - **Classification**
