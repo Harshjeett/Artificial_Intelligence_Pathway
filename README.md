@@ -1,6 +1,6 @@
 # Artificial_Intelligence_Pathway
 Learning Materials and Pathway of Artificial Intelligence (Machine Learning)
-- [Introduction to AI] (https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/syllabus/) \
+- Introduction to AI \
   https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/syllabus/
 
 ## Mathematics Basics
